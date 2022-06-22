@@ -1,12 +1,12 @@
 CONTENTS OF THIS README
 ---------------------
 
- * Description
+ * [Description](https://github.com/blanksyy/self-driving-car/edit/main/README.md#DESCRIPTION)
  * How to use
  * Credits
 
 
-INTRODUCTION
+DESCRIPTION
 ------------
 
 This project has been made without any libraries, only vanilla JavaScript, HTML and CSS. There is a visualisation of the neurological network used to make the decisions for the AI. The car uses machine learning throught trial-and-error to find the best way to complete the trial.
