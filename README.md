@@ -3,7 +3,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/github_username/repo_name">
-    <img "src="https://www.w3schools.com/images/img_girl.jpg" alt="Logo" width="80" height="80">
+    <img "src="https://www.w3schools.com/images/img_girl.jpg">
   </a>
 
 <h3 align="center">project_title</h3>
