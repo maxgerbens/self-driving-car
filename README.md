@@ -2,8 +2,8 @@ CONTENTS OF THIS README
 ---------------------
 
  * [Description](https://github.com/blanksyy/self-driving-car/blob/main/README.md#description)
- * How to use
- * Credits
+ * [How to use](https://github.com/blanksyy/self-driving-car/blob/main/README.md#how-to-use)
+ * [Credits](https://github.com/blanksyy/self-driving-car/blob/main/README.md#credits)
 
 
 DESCRIPTION
