@@ -7,7 +7,7 @@ CONTENTS OF THIS README
 
 
 
-![Alt text](https://gcdnb.pbrd.co/images/cRMV4Ne7bTDx.png?o=1 "Image of the game")
+![](https://gcdnb.pbrd.co/images/cRMV4Ne7bTDx.png?o=1 "Image of the game")
 
 
 
