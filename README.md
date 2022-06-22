@@ -6,6 +6,11 @@ CONTENTS OF THIS README
  * [Credits](https://github.com/blanksyy/self-driving-car/blob/main/README.md#credits)
 
 
+
+![Alt text](https://pasteboard.co/cRMV4Ne7bTDx.png "Image of the game")
+
+
+
 DESCRIPTION
 ------------
 
