@@ -16,9 +16,7 @@ HOW TO USE
 
 Clone or download the repository and open it in [Visual Studio Code](https://code.visualstudio.com/) then open the index.html file using the [Live Server]( https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) plugin.
 
-After that you can experiment using different number of cars used for the machine learning (default is 1000 cars, but most computers can't handle that and therefore optimal to use +- 100 cars.) You probably won't get the optimal route of the care the first try, keep refreshing untill a car reaches the end of the course, then click the save button, and change the amount of cars to 1. This car will take the optimal route and will finish the course always. If you want to retry, click the delete button and try again.
-
-Every time you refresh (after you save), the cars will take a better route and will finally complete the course.
+Keep saving a better run of a car, and then refresh, the cars will keep taking a better route and finally finish the course without error. Then you should save the best run, change the amount of cars to 1.This one car will complete the course without error.
 
 You can change the number of cars in main.js on line 12
 
